@@ -1,0 +1,38 @@
+{
+  "score_config": {
+    "default": {
+      "categories": [
+        { "id": "greens_quality", "name": "Greens Quality", "weight": 0.15 },
+        { "id": "fairways", "name": "Fairways", "weight": 0.13 },
+        { "id": "value", "name": "Value", "weight": 0.13 },
+        { "id": "rough", "name": "Rough", "weight": 0.11 },
+        { "id": "practice_facility", "name": "Practice Facility", "weight": 0.1 },
+        { "id": "tee_boxes", "name": "Tee Boxes", "weight": 0.09 },
+        { "id": "fringes", "name": "Fringes", "weight": 0.09 },
+        { "id": "bunkers", "name": "Bunkers", "weight": 0.08 },
+        { "id": "staff_operations", "name": "Staff/Operations", "weight": 0.08 },
+        { "id": "layout_fun", "name": "Layout/Fun Factor", "weight": 0.04 }
+      ]
+    }
+  },
+  "reviews": {
+    "seed-review-pebble": {
+      "course_info": {
+        "courseName": "Pebble Beach Golf Links",
+        "city": "Pebble Beach",
+        "state": "CA",
+        "datePlayed": "2025-06-15",
+        "holes": 18,
+        "access": "Public"
+      },
+      "weighted_score": 8.7,
+      "letter_grade": "A-",
+      "amenities": ["Full Range", "Restaurant"],
+      "descriptive_profile": {
+        "greenSpeed": "Fast",
+        "difficulty": "Challenging"
+      },
+      "sync_status": "submitted"
+    }
+  }
+}
